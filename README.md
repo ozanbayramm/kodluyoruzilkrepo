@@ -5,7 +5,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 ---
   
   
-![proje resmim](https://imgyukle.com/f/2022/10/14/nb6fwc.png)
+![2022-10-14 (1)](https://user-images.githubusercontent.com/115734711/195888180-0af75295-2d8b-4d96-b52a-460e67b44c2f.png)
+
 
 ---
 
