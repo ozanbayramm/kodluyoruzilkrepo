@@ -12,9 +12,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 ## Installation
 
-Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan 
-
-aldığınız link gelecek)
+Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 
  
